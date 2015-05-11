@@ -9,7 +9,6 @@ steps:<br/><br/>
   172.17.42.5 5.test.cn<br/>
   172.17.42.6 6.test.cn<br/>
   172.17.42.7 7.test.cn
-  
 3. start containers <br/>
   ./start-all.sh
 4. stop containers <br/>
