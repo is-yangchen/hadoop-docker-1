@@ -1,0 +1,8 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+172.17.42.2 2.test.cn
+172.17.42.3 3.test.cn
+172.17.42.4 4.test.cn
+172.17.42.5 5.test.cn
+172.17.42.6 6.test.cn
+172.17.42.7 7.test.cn
